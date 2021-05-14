@@ -1,0 +1,22 @@
+.logo{
+    font-weight: bold; 
+    font-family: Snell Roundhand, cursive;
+    font-size:28px;
+}
+
+.fundoTransparente{
+    background-color: black;
+    opacity: 0.6;
+}
+
+/* Imagem Home */
+img{
+    max-height: 500px;
+}
+
+@media (max-width: 575.98px) {
+    img{
+        height: 280px;
+    }
+}
+/* Fim */
